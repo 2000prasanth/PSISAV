@@ -1,0 +1,46 @@
+Hi, It's me UBprogrammer. Hope you are doing great!
+
+-------------------------------------------------------------
+-------------------------- Method # 1 to Run project on your Machine -----------------------
+You will find a file named as "packages_used_in_project_development.txt" , which contain all module names with pip installation command t intall them.
+So, install them all and execute the below command in your terminal or just run app.py file as you run any python file:
+				      python app.py
+ENJOY!
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------- Method # 2 to Run project on your Machine -----------------------
+
+Install Python on your machine and execute the below command in your terminal(Open it in same directory where you saved project all files)
+                                     pip install -r /path/to/requirements.txt
+
+After executing the above command, it will install al required libraries you need to run this project,
+Now execute the below command in your terminal or just run app.py file as you run any python file:
+				     python app.py  
+
+This will create a server for your flask App, just follow that link and enjoy the project! 
+ENJOY!
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------- Method # 3 to Run project on your Machine -----------------------
+Strategy: Create a anaconda environment using provided YAML file (conda_requirements_yml.yml) and execute app.py using interpreter of this environment.
+
+Now let's get a bit advanced incase the methiod 1 and 2 didn't worked for you:
+
+So, I will recommend to use anaconda environments to run the projects,
+
+Install anaconda on your machine, Navigate to the directory where you have stored project files, open anaconda prompt here and execute below command:
+				     conda env create -n my_project_env --file conda_requirements_yml.yml
+
+Now activate the created enviorement (my_project_env) and execute below command:
+				     python app.py 
+ENJOY!
+---------------------------------------------------------------------
+
+Note: Incase you are unable to run the project, You can always contact me on:
+
+WhatsApp: +923484122900
+Email: ubaidp1049@gmail.com
+
+Thanks! 
+
+
