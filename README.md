@@ -13,8 +13,4 @@ PSISAV aims to enhance pedestrian safety for autonomous vehicles operating in ur
 - **Real-time Processing**: Offers real-time capabilities for autonomous systems.
 - **Scalability**: Scales with the evolving complexity of autonomous technologies.
 
-## Usage
-1. Clone the repository to your local machine.
-2. Install dependencies from `requirements.txt`.
-3. Run the `main` script to start the PSISAV system.
-4. Integrate PSISAV into your autonomous vehicle platform.
+
